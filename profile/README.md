@@ -46,16 +46,6 @@ We drive the deep integration of AI with software systems, industrial scenarios,
 
 ---
 
-## 重点方向 | Focus Areas
-
-- AI 应用研发 | AI Application R&D  
-- 行业数字化解决方案 | Industry Digital Solutions  
-- 智能系统与平台开发 | Intelligent Systems & Platform Development  
-- 数据驱动分析与决策支持 | Data-Driven Analytics & Decision Support  
-- 产业协同创新与成果转化 | Industrial Collaboration & Innovation Transformation  
-
----
-
 ## 我们的使命 | Our Mission
 
 以人工智能赋能产业创新，以研发驱动应用升级，以协同促进价值创造。
@@ -89,20 +79,6 @@ To build a forward-looking AI innovation and R&D platform with strong innovation
 - **稳健发展 | Sustainable Development**  
   坚持规范、责任与长期主义  
   Emphasizing standards, responsibility, and long-term development
-
----
-
-## 组织信息 | Organization Information
-
-| 项目 | 内容 |
-|------|------|
-| 中心名称 | ElexvxAI创新产业研发中心 |
-| 英文名称 | ElexvxAI Lab |
-| 成立时间 | 2026-03-06 |
-| 设立单位 | 宏翔商道（南京）科技发展有限公司 |
-| English Name | ElexvxAI Lab |
-| Established | 2026-03-06 |
-| Affiliated Company | Hongxiang Shangdao (Nanjing) Technology Development Co., Ltd. |
 
 ---
 
